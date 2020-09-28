@@ -3,7 +3,7 @@
 Code to run a plant watering and analysis machine on a Raspberry Pi.
 Features:
 - Automatic watering based on moisture level
-- Plant rotation to orient towards most direct sunlight
+- Plant rotation to orient towards most direct sunlight (demo in media/)
 - Moisture and light level data recording
 - Web app control interface
 
